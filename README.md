@@ -71,7 +71,7 @@ OpenNote is a modern Android note-taking application built entirely with Compose
 
 ## 🌎 Translations
 
-Currently supports Chinese, English, German and Turkish.
+Currently supports Chinese, English, German and Turkish. khmer,
 
 ## 💡 How to Use OpenNote with Markdown, LaTeX Math, and Mermaid Diagrams?
 
