@@ -1,7 +1,7 @@
 - [English](README.md)
 - [简体中文](README.zh.md)
 - [Türkçe](README.tr.md)
-
+- [ខ្មែរ](README.kh.md)
 # OpenNote
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
